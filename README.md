@@ -1,0 +1,1 @@
+# Student-Management-System---FastAPI-SQLAlchemy-Pydantic-JWT
