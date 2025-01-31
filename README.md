@@ -34,3 +34,6 @@ This project is ideal for educational institutions looking for a **modern, API-d
 💡 **Looking for feedback and collaboration opportunities!** 🚀 Let’s connect and discuss ways to improve and expand this system.  
 
 **#FastAPI #SQLAlchemy #Pydantic #JWT #BackendDevelopment #WebAPI #StudentManagement #Python**
+
+[student_mangement_student.pdf](https://github.com/user-attachments/files/18620813/student_mangement_student.pdf)
+
